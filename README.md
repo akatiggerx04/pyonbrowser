@@ -1,5 +1,7 @@
 # PyOnBrowser - Run Python Code Directly in Your Browser with Ease
 
+![pyonbrowser.png](https://raw.githubusercontent.com/akatiggerx04/pyonbrowser/gh-pages/assets/app.png)
+
 PyOnBrowser is a web application that allows you to run Python code directly in your browser with ease. The app uses py-script to interpret Python code locally, so you don't have to worry about sending your code to a remote server. This is my first project in Svelte btw.
 
 With PyOnBrowser, you can experiment with Python code snippets, test your scripts, or even run simple Python programs directly in your browser. Whether you're a beginner or an experienced Python developer, PyOnBrowser is an essential tool for your workflow.

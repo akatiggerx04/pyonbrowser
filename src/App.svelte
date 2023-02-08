@@ -97,7 +97,7 @@
 						<span aria-hidden="true">&times;</span>
 						</a>
 						<h5 class="modal-title">Share Your Python Snippet</h5>
-						<code class="text-right">{share_url}</code>
+						<p>Get your hands on the link to your Python snippet by simply clicking on the 'Copy Link' button, and share it with others.</p>
 						<div class="text-right mt-20">
 						<a href="#close" class="btn mr-5" role="button">Close</a>
 						<a href="#close" class="btn btn-primary" role="button" on:click={copy(share_url)}>Copy Link</a>
